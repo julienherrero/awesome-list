@@ -1,0 +1,21 @@
+name: 'build'
+
+on:
+  workflow_dispatch:
+  schedule:
+      # See https://crontab.guru/examples.html for more examples
+      - cron:  '0 0 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: luob/create-my-awesome@v1
+      
+      - uses: EndBug/add-and-commit@v5
+        with:
+          message: 'docs: update README.md'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
