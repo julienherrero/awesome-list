@@ -113,6 +113,7 @@ A collection of awesome things.
 - [Tommy-Geenexus/exif-interface-extended](https://github.com/Tommy-Geenexus/exif-interface-extended) - AndroidX ExifInterface with an extended API
 - [VictorAlbertos/BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) - A customizable Android view for paginated forms
 - [VictorAlbertos/RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
+- [Willena/Android_PhoneNumber_Input](https://github.com/Willena/Android_PhoneNumber_Input) - A small library that bring a more powerful widget for telephone number inputs
 - [Zhuinden/simple-stack](https://github.com/Zhuinden/simple-stack) - [ACTIVE] Simple Stack, a backstack library / navigation framework for simpler navigation and state management (for fragments, views, or whatevers).
 - [akaita/RxJava2Debug](https://github.com/akaita/RxJava2Debug) - RxJava 2.x extension to provide meaningful Stack Traces
 - [akaita/easylauncher-gradle-plugin](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin. Of course, configure it as you will
@@ -135,7 +136,6 @@ A collection of awesome things.
 - [githubwing/ByeBurger](https://github.com/githubwing/ByeBurger) - An Android behavior library let your titlebar or bottom navigation hiding on scroll ,极其简便的快速实现滑动隐藏标题栏和导航栏
 - [google/TestParameterInjector](https://github.com/google/TestParameterInjector) - A simple yet powerful parameterized test runner for Java.
 - [hbb20/CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject) - Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation.
-- [hbollon/Urbalog](https://github.com/hbollon/Urbalog) - Android adaptation of board game using Nearby Connections API
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [imablanco/Zoomy](https://github.com/imablanco/Zoomy) - Zoomy is an easy to use pinch-to-zoom Android library
 - [infinum/Android-Goldfinger](https://github.com/infinum/Android-Goldfinger) - Android library to simplify Biometric authentication implementation.
@@ -431,6 +431,7 @@ A collection of awesome things.
 - [idisfkj/android-startup](https://github.com/idisfkj/android-startup) - 🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to streamline startup sequences and explicitly set the order of initialization.
 - [igorescodro/alkaa](https://github.com/igorescodro/alkaa) - Open-source app to manage your tasks quickly and easily
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
+- [igorwojda/kotlin-coding-challenges](https://github.com/igorwojda/kotlin-coding-challenges) - 🧩 Kotlin coding puzzle and solutions
 - [infinum/Android-GoldenEye](https://github.com/infinum/Android-GoldenEye) - A wrapper for Camera1 and Camera2 API which exposes simple to use interface.
 - [infinum/android-collar](https://github.com/infinum/android-collar) - Gradle plugin which collects all analytics screen names, events and user properties for Android projects.
 - [infinum/android-sentinel](https://github.com/infinum/android-sentinel) - Sentinel is a simple one screen UI which provides a standardised entry point for tools used in development and QA alongside device, application and permissions data.
@@ -450,6 +451,7 @@ A collection of awesome things.
 - [kojofosu/PasswordValidationView](https://github.com/kojofosu/PasswordValidationView) - Android UI component to validate passwords.
 - [kojofosu/Quantitizer](https://github.com/kojofosu/Quantitizer) - :sparkles: A quantity stepper for android projects
 - [kojofosu/SplitButton](https://github.com/kojofosu/SplitButton) -  A dual-function menu button that offers a default action as well as the possibility of choosing a different action by selecting from a set of alternatives.
+- [kopykat-kt/kopykat](https://github.com/kopykat-kt/kopykat) - Little utilities for more pleasant immutable data in Kotlin
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [kotlinizer/kotlin-mqtt-client](https://github.com/kotlinizer/kotlin-mqtt-client) - Simple kotlin library for connecting on MQTT server.
 - [krossovochkin/chess.kt](https://github.com/krossovochkin/chess.kt) - Kotlin multiplatform chess backend
@@ -646,6 +648,7 @@ A collection of awesome things.
 - [crs-k/release-draft](https://github.com/crs-k/release-draft) - Creates & updates GitHub release draft, automatically generates release notes, and bumps semver compliant tags.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps.
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
