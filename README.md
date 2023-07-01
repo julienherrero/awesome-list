@@ -80,7 +80,7 @@ A collection of awesome things.
 ## Groovy
 
 - [asciidoctor/asciidoctor-gradle-plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin) - A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
-- [green-code-initiative/ecoCode-mobile](https://github.com/green-code-initiative/ecoCode-mobile) - Reduce the environmental footprint of your mobile apps with SonarQube
+- [green-code-initiative/ecoCode-android](https://github.com/green-code-initiative/ecoCode-android) - Reduce the environmental footprint of your Android apps with SonarQube
 - [lessthanoptimal/gversion-plugin](https://github.com/lessthanoptimal/gversion-plugin) - Gradle plugin for autogenerating version info from gradle and git
 - [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA
 
@@ -195,6 +195,7 @@ A collection of awesome things.
 - [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A declarative API to handle Android runtime permissions.
 - [pilgr/Paper](https://github.com/pilgr/Paper) - Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
 - [pranavpandey/dynamic-theme](https://github.com/pranavpandey/dynamic-theme) - A text (JSON) based theme engine for Android apps.
+- [pranavpandey/dynamic-utils](https://github.com/pranavpandey/dynamic-utils) - Utility functions to perform dynamic operations on Android. 
 - [preslavmihaylov/booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various computer science books
 - [ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
 - [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
@@ -214,7 +215,6 @@ A collection of awesome things.
 - [willowtreeapps/Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) - App Debugging & Inspection Tool for Android
 - [yandextaxitech/binaryprefs](https://github.com/yandextaxitech/binaryprefs) - Rapidly fast and lightweight re-implementation of SharedPreferences  which stores each preference in files separately, performs disk operations  via NIO with memory mapped byte buffers and works IPC (between processes).  Written from scratch.
 - [ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit) - Android  loading animations
-- [zcweng/SwitchButton](https://github.com/zcweng/SwitchButton) - SwitchButton.An beautiful+lightweight+custom-style-easy switch widget for Android,minSdkVersion &gt;= 11
 - [zendesk/belvedere](https://github.com/zendesk/belvedere) - An image picker library for Android
 - [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
 - [zsoltk/paperwork](https://github.com/zsoltk/paperwork) - Generate build info for your Android project without breaking incremental compilation
@@ -266,6 +266,7 @@ A collection of awesome things.
 - [Codeblin/ObjectPreference](https://github.com/Codeblin/ObjectPreference) - Fast and easy Shared Preferences managing with object mapping annotations for simple or complex class structures
 - [Daio-io/dresscode](https://github.com/Daio-io/dresscode) - 👔 Tiny lightweight Kotlin Android library to change theme at runtime.
 - [Decathlon/vitamin-android](https://github.com/Decathlon/vitamin-android) - Decathlon Design System UI components for Android applications
+- [DenisBronx/NetMock](https://github.com/DenisBronx/NetMock) - 
 - [Devlight/CornerCutLinearLayout](https://github.com/Devlight/CornerCutLinearLayout) - Linear Layout that allow corner (parent and children) cuts, complex shadow and divider.
 - [DonBrody/Android-CustomKeyboard](https://github.com/DonBrody/Android-CustomKeyboard) - Fully customizable Android keyboard written in Kotlin.
 - [Droppers/AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) - A customizable and easy to use BottomBar navigation view with sleek animations, with support for ViewPager, ViewPager2, NavController, and badges.
@@ -281,7 +282,7 @@ A collection of awesome things.
 - [GiuseppeGiacoppo/RemoteConfig](https://github.com/GiuseppeGiacoppo/RemoteConfig) - RemoteConfig is a Kotlin library that lets you manage all your remote configuration without requiring developers to manually download each configuration and integrate them into the Kotlin application.
 - [GuilhE/SharedPrefs-ktx](https://github.com/GuilhE/SharedPrefs-ktx) - Save and load objects from SharedPreferences in a faster and simpler way with Kotlin Extensions 🎉
 - [GwonHyeok/StickySwitch](https://github.com/GwonHyeok/StickySwitch) - ⭐️ beautiful switch widget with sticky animation ⭐️
-- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine.
+- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine, developed with purely custom APIs created for this app.
 - [Hamza417/Positional](https://github.com/Hamza417/Positional) - An elegant and colorful location information app for Android with Compass, Clock, Level, Sun, Moon, Trail Marker and many other features.
 - [Hussienfahmy/MeFab](https://github.com/Hussienfahmy/MeFab) - Movable Expandable Floating Action Button
 - [ImangazalievM/CircleMenu](https://github.com/ImangazalievM/CircleMenu) - CircleMenu is a simple, elegant menu with a circular layout.
@@ -340,6 +341,7 @@ A collection of awesome things.
 - [ShabanKamell/FormValidator](https://github.com/ShabanKamell/FormValidator) - A declarative Form Validation for Android, simple, clean, and customizable.
 - [Shopify/android-testify](https://github.com/Shopify/android-testify) - Add screenshots to your Android tests
 - [SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder](https://github.com/SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder) - Same as the Outlined text fields presented on the Material Design page but with some dynamic changes. 📝 🎉
+- [SimonMarquis/Android-Version-Distribution](https://github.com/SimonMarquis/Android-Version-Distribution) - 
 - [SimonMarquis/InternalAppStore](https://github.com/SimonMarquis/InternalAppStore) - 📦 Manage your own internal Android App Store.
 - [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
 - [Spikeysanju/MotionToast](https://github.com/Spikeysanju/MotionToast) - 🌈 A Beautiful Motion Toast Library for Kotlin Android
@@ -378,6 +380,7 @@ A collection of awesome things.
 - [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 - [Zhuinden/livedata-combinetuple-kt](https://github.com/Zhuinden/livedata-combinetuple-kt) - [ACTIVE] Helper function to combine LiveData into tuples.
 - [a1573595/SecuritySharedPreferences](https://github.com/a1573595/SecuritySharedPreferences) - A small SharedPreferences wrapper and cryptographic android library power by Kotlin.
+- [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 - [aartikov/Sesame](https://github.com/aartikov/Sesame) - Android architecture components made right
 - [adibfara/Lives](https://github.com/adibfara/Lives) - Lives - Android LiveData Extensions for Kotlin and Java
 - [adonmo/killerbee](https://github.com/adonmo/killerbee) - MQTT android client
@@ -540,6 +543,7 @@ A collection of awesome things.
 - [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 - [maxkeppeler/sheets](https://github.com/maxkeppeler/sheets) - ⭐ ‎‎‎‏‏‎ ‎Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many  ways to customize sheets.
 - [mayokunadeniyi/Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather) - An Android weather application implemented using the MVVM pattern, Retrofit2, Dagger Hilt, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the Android Jetpack.
+- [mfwgenerics/kapshot](https://github.com/mfwgenerics/kapshot) - Kotlin Compiler Plugin for source capture
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [michaelbull/kotlin-inline-logger](https://github.com/michaelbull/kotlin-inline-logger) - A logger facilitating lazily-evaluated log calls via Kotlin's inline classes & functions.
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments 
@@ -634,7 +638,7 @@ A collection of awesome things.
 - [skydoves/ProgressView](https://github.com/skydoves/ProgressView) - 🌊 A polished and flexible ProgressView, fully customizable with animations.
 - [skydoves/Submarine](https://github.com/skydoves/Submarine) - :speedboat: Floating navigation view for displaying a list of items dynamically on Android.
 - [skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout) - 🌠 Transform between two Views, Activities, and Fragments, or a View to a Fragment with container transform animations for Android.
-- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
+- [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2023 Android Developer Roadmap suggests learning paths to understanding Android development.
 - [skydoves/sandwich](https://github.com/skydoves/sandwich) - 🥪  A lightweight and pluggable sealed API library for modeling Retrofit responses and handling exceptions on Kotlin and Android.
 - [skydoves/sealedx](https://github.com/skydoves/sealedx) - 🎲 Kotlin Symbol Processor that auto-generates extensive sealed classes and interfaces for Android and Kotlin.
 - [skydoves/viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle) - 🌳 ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
@@ -669,7 +673,7 @@ A collection of awesome things.
 - [twilio/apkscale](https://github.com/twilio/apkscale) - A Gradle plugin to measure the app size impact of Android libraries
 - [tynn-xyz/AString](https://github.com/tynn-xyz/AString) - A context aware string abstraction for Android - implemented with Kotlin for Java
 - [typesafegithub/github-actions-typing](https://github.com/typesafegithub/github-actions-typing) - Bring type-safety to your GitHub actions' API!
-- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't get back to YAML!
+- [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [uberto/pesticide](https://github.com/uberto/pesticide) - A Library To Write Domain-Driven Tests, written in Kotlin on top of Junit5
 - [unhappychoice/Norimaki](https://github.com/unhappychoice/Norimaki) - :cyclone: Android client for Circle CI 
 - [unhappychoice/color-hash.kt](https://github.com/unhappychoice/color-hash.kt) - :traffic_light: https://github.com/zenozeng/color-hash implementation by Kotlin/Android
@@ -694,6 +698,7 @@ A collection of awesome things.
 - [yshrsmz/KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent) - Android Library to handle software keyboard visibility change event.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu) - Shows Material popup menus grouped in sections & more
+- [zcweng/SwitchButton](https://github.com/zcweng/SwitchButton) - SwitchButton.An beautiful+lightweight+custom-style-easy switch widget for Android,minSdkVersion &gt;= 11
 - [zetbaitsu/Cekrek](https://github.com/zetbaitsu/Cekrek) - An android library that allows you to export any view to bitmap or image file in a convenient way.
 - [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 - [zsmb13/requireKTX](https://github.com/zsmb13/requireKTX) - A collection of small utility functions to make it easier to deal with some otherwise nullable APIs on Android.
@@ -716,6 +721,7 @@ A collection of awesome things.
 - [Donnnno/Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -766,13 +772,14 @@ A collection of awesome things.
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - Flashlight takes inspiration from Lighthouse and gives a performance score to your Android apps (including native, React Native and Flutter). Measure performance on CLI, Flipper or via E2E tests.
 - [crs-k/release-draft](https://github.com/crs-k/release-draft) - Creates & updates GitHub release draft, automatically generates release notes, and bumps semver compliant tags.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 
 ## Vue
 
