@@ -77,7 +77,7 @@ A collection of awesome things.
 - [KarnerTh/mermerd](https://github.com/KarnerTh/mermerd) - Create Mermaid-Js ERD diagrams from existing tables
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -110,6 +110,7 @@ A collection of awesome things.
 - [Aghajari/AXEmojiView](https://github.com/Aghajari/AXEmojiView) - an advanced library which adds emoji,sticker,... support to your Android application.
 - [Amit7474/Dolly-SharedPreferences](https://github.com/Amit7474/Dolly-SharedPreferences) - 
 - [AmrDeveloper/TreeView](https://github.com/AmrDeveloper/TreeView) - Multi roots TreeView 🌴 implementation for Android that require no custom and allow customization in the design and logic
+- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [ArtemNurtdinov/RatingView](https://github.com/ArtemNurtdinov/RatingView) - Android view for showing rating or quiz results
 - [Ashok-Varma/Gander](https://github.com/Ashok-Varma/Gander) - Gander is a simple in-app HTTP inspector for Android OkHttp clients. Gander intercepts and persists all HTTP requests and responses inside your application, and provides a UI for inspecting their content.
 - [Azoft/CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) - Android Carousel LayoutManager for RecyclerView
@@ -161,7 +162,7 @@ A collection of awesome things.
 - [emrekobak/Android-MQTT-Client](https://github.com/emrekobak/Android-MQTT-Client) - Android MQTT Client App
 - [eriffanani/TextViewReadMore](https://github.com/eriffanani/TextViewReadMore) - Android library for creating expand button on your long textview 
 - [fabiomsr/okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor) - This tool extracts peer certificates from given certificates.
-- [felldo/JEmoji](https://github.com/felldo/JEmoji) - Java Emoji (JEmoji) is a lightweight fast emoji library for Java with the purpose to improve and ease working with emojis
+- [felldo/JEmoji](https://github.com/felldo/JEmoji) - Java Emoji (JEmoji) is a lightweight, fast and auto generated emoji library for Java with the purpose to improve and ease working with emojis
 - [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView) - Give a custom shape to any android view, Material Design 2 ready
 - [githubwing/ByeBurger](https://github.com/githubwing/ByeBurger) - An Android behavior library let your titlebar or bottom navigation hiding on scroll ,极其简便的快速实现滑动隐藏标题栏和导航栏
 - [goldfish07/ResChiper](https://github.com/goldfish07/ResChiper) - AAB Resource Obfuscation Tool for Android
@@ -228,6 +229,7 @@ A collection of awesome things.
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava streams.
 - [ujwal-coditas/MultiLamp](https://github.com/ujwal-coditas/MultiLamp) - Android library to showcase/highlight the multiple views on same overlay
 - [uniVocity/univocity-parsers](https://github.com/uniVocity/univocity-parsers) - uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers.
+- [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Timeline View is a highly customizable android library for creating shipment/order tracking, step progress indicators, etc.
 - [voghDev/PdfViewPager](https://github.com/voghDev/PdfViewPager) - Android widget that can render PDF documents stored on SD card, linked as assets, or downloaded from a remote URL.
 - [wajahatkarim3/EasyFlipViewPager](https://github.com/wajahatkarim3/EasyFlipViewPager) - 📖 The library for creating book and card flip animations in ViewPager in Android
 - [willowtreeapps/Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) - App Debugging & Inspection Tool for Android
@@ -335,7 +337,7 @@ A collection of awesome things.
 - [ErickSumargo/Dads](https://github.com/ErickSumargo/Dads) - *BA DUM TSSS*
 - [ExoQuery/pprint-kotlin](https://github.com/ExoQuery/pprint-kotlin) - Li Haoyi's excellent Pretty Printing library ported to Kotlin!
 - [Fbada006/ArtMaker](https://github.com/Fbada006/ArtMaker) - ArtMaker is a flexible and customisable library that allows users to draw anything they want on screen and has been built fully with Jetpack Compose.
-- [FelipeKoga/deeplink-launcher](https://github.com/FelipeKoga/deeplink-launcher) - Launch deeplinks easily - built with Compose Multiplatform
+- [FelipeKoga/deeplink-launcher](https://github.com/FelipeKoga/deeplink-launcher) - Launch deeplinks easily - built with Compose Multiplatform (Android, iOS and Desktop)
 - [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose
 - [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native, WasmJs)) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 - [FunkyMuse/KAHelpers](https://github.com/FunkyMuse/KAHelpers) - Kotlin Extensions (Android extensions) and Helpers for smoother Android development 
@@ -353,7 +355,7 @@ A collection of awesome things.
 - [GuilhE/SharedPrefs-ktx](https://github.com/GuilhE/SharedPrefs-ktx) - Save and load objects from SharedPreferences in a faster and simpler way with Kotlin Extensions 🎉
 - [GuilhE/WhosNext](https://github.com/GuilhE/WhosNext) - Kotlin Multiplatform Timer
 - [GwonHyeok/StickySwitch](https://github.com/GwonHyeok/StickySwitch) - ⭐️ beautiful switch widget with sticky animation ⭐️
-- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other panels with an independent custom theme engine, developed with purely custom APIs created for this app.
+- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other features with an custom theme engine, developed with purely custom UI design.
 - [Hamza417/Positional](https://github.com/Hamza417/Positional) - An elegant and colorful location information app for Android with Compass, Clock, Level, Sun, Moon, Trail Marker and many other features.
 - [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [HighCapable/SweetDependency](https://github.com/HighCapable/SweetDependency) - An easy autowire and manage dependencies Gradle plugin.
@@ -501,7 +503,7 @@ A collection of awesome things.
 - [Trendyol/StateLayout](https://github.com/Trendyol/StateLayout) - StateLayout is a simple-use Android layout library which handles Loading, Content and Error states
 - [Trendyol/medusa](https://github.com/Trendyol/medusa) - Android fragment stack controller
 - [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) - GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
-- [Tweener/czan](https://github.com/Tweener/czan) - CZAN is an atomic design system for Compose Multiplatform
+- [Tweener/czan](https://github.com/Tweener/czan) - A Kotlin/Compose Multiplatform design system that allows you to easily create components and screens.
 - [Umweltzone/roadsigns](https://github.com/Umweltzone/roadsigns) - A Kotlin library hosting a custom view for road signs.
 - [ValterKasper/space-app](https://github.com/ValterKasper/space-app) - An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application.
 - [Vi-r-us/Meather](https://github.com/Vi-r-us/Meather) - Weatherapp is a simple weather forecast app, which uses some APIs to fetch 5 day / 3 hour forecast data from the OpenWeatherMap and to fetch places, cities, counties, coords etc.
@@ -554,7 +556,7 @@ A collection of awesome things.
 - [andrefrsousa/SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) - Android native BottomSheet on steroids 💪
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-- [android/kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
+- [android/kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the Kotlin Multiplatform Jetpack libraries
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 - [androidPluto/pluto](https://github.com/androidPluto/pluto) - Android Pluto is a on-device debugging framework for Android applications, which helps intercept Network calls, capture Crashes & ANRs, manipulate application data on-the-go, and much more.
 - [androidbroadcast/ViewBindingPropertyDelegate](https://github.com/androidbroadcast/ViewBindingPropertyDelegate) - Make work with Android View Binding simpler
@@ -670,7 +672,6 @@ A collection of awesome things.
 - [eygraber/jsonapi-kotlin](https://github.com/eygraber/jsonapi-kotlin) - A Kotlin Multiplatform kotlinx.serialization library for working with JSON:API
 - [ezralazuardy/bookstore](https://github.com/ezralazuardy/bookstore) - 📚 Book Store Android App intended for study purpose at Cilsy Sekolah Mobile
 - [ezralazuardy/orb](https://github.com/ezralazuardy/orb) - Android network monitoring made easy 🎉️
-- [f33lnothin9/flick](https://github.com/f33lnothin9/flick) - 🎬 A movie app built entirely with Jetpack Compose and Material 3
 - [facebookincubator/dataclassgenerate](https://github.com/facebookincubator/dataclassgenerate) - DataClassGenerate (or simply DCG) is a Kotlin compiler plugin that addresses an Android APK size overhead from Kotlin data classes. 
 - [farimarwat/ANR-Spy](https://github.com/farimarwat/ANR-Spy) - Android ANR Spy is an android ANR sdk/library for detecting  android ANR (Application Not Responding)
 - [feelsoftware/FeelFine](https://github.com/feelsoftware/FeelFine) - Activity tracker app
@@ -678,7 +679,7 @@ A collection of awesome things.
 - [ferPrieto/MVVM-Modularized](https://github.com/ferPrieto/MVVM-Modularized) - A clean architecture approach (modular) using MVVM, Dagger2, LiveData and RxAndroid
 - [flamingo-ux/flamingo-android](https://github.com/flamingo-ux/flamingo-android) - Android implementation of the Flamingo Design System
 - [flavioarfaria/Catalog](https://github.com/flavioarfaria/Catalog) - Generate type-safe, user-friendly extensions to resolve Android resources.
-- [flixclusiveorg/Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - A TV show and movie player application.
+- [flixclusiveorg/Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - A jetpack compose media3 player application
 - [fondesa/recycler-view-divider](https://github.com/fondesa/recycler-view-divider) - A library which configures a divider for a RecyclerView.
 - [fork-handles/forkhandles](https://github.com/fork-handles/forkhandles) - Foundational libraries for Kotlin
 - [fornewid/material-motion-compose](https://github.com/fornewid/material-motion-compose) - Material Motion for Jetpack Compose and Compose Multiplatform
@@ -712,8 +713,6 @@ A collection of awesome things.
 - [hitanshu-dhawan/McCompose](https://github.com/hitanshu-dhawan/McCompose) - :hamburger:ㅤA McDonald’s app built with Jetpack Compose
 - [hoc081098/FlowExt](https://github.com/hoc081098/FlowExt) - FlowExt | Kotlinx Coroutines Flow Extensions | Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library | kotlin-flow-extensions | Coroutines Flow Extensions | Kotlin Flow extensions | kotlin flow extensions | Flow extensions
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [iamjosephmj/Raccoon](https://github.com/iamjosephmj/Raccoon) - Raccoon is a lightweight response mocking framework that can be easily integrated into the Android UI tests.
-- [iamjosephmj/flinger](https://github.com/iamjosephmj/flinger) - Lightweight library to tweak the fling behaviour in Android. This library is only compatible with Jetpack-Compose.
 - [iamnaran/beetle](https://github.com/iamnaran/beetle) - A Wear Os App with Jetpack Compose - beetle
 - [iamnaran/firefly-compose](https://github.com/iamnaran/firefly-compose) - A Jetpack Compose Beginner Series App Android | Compose | MVVM | Hilt | Room
 - [ibenabdallah/the-movie-db](https://github.com/ibenabdallah/the-movie-db) - The Movie BD : Android 📱, iOS 📱 and wearOS ⌚ application built with Kotlin Multiplatform, Compose Multiplatform with MVVM, Clean Architecture recommended by Google
@@ -724,6 +723,8 @@ A collection of awesome things.
 - [igorescodro/alkaa](https://github.com/igorescodro/alkaa) - Kotlin multiplatform app to manage your tasks
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
 - [igorwojda/kotlin-coding-challenges](https://github.com/igorwojda/kotlin-coding-challenges) - 🧩 Kotlin coding puzzle and solutions
+- [imjoz/Raccoon](https://github.com/imjoz/Raccoon) - Raccoon is a lightweight response mocking framework that can be easily integrated into the Android UI tests.
+- [imjoz/flinger](https://github.com/imjoz/flinger) - Lightweight library to tweak the fling behaviour in Android. This library is only compatible with Jetpack-Compose.
 - [infinum/Android-GoldenEye](https://github.com/infinum/Android-GoldenEye) - A wrapper for Camera1 and Camera2 API which exposes simple to use interface.
 - [infinum/Retromock](https://github.com/infinum/Retromock) - Java library for mocking responses in a Retrofit service.
 - [infinum/android-collar](https://github.com/infinum/android-collar) - Gradle plugin which collects all analytics screen names, events and user properties for Android projects.
@@ -756,7 +757,7 @@ A collection of awesome things.
 - [jordond/transformerKt](https://github.com/jordond/transformerKt) - 🔧 A Kotlin coroutine wrapper around Media3's Transformer API.
 - [joreilly/BikeShare](https://github.com/joreilly/BikeShare) - SwiftUI, Jetpack Compose, and Compose for Desktop based Kotlin Multiplatform project (using CityBikes API http://api.citybik.es/v2/). Uses Realm for local persistence
 - [joreilly/ClimateTraceKMP](https://github.com/joreilly/ClimateTraceKMP) - Kotlin/Compose Multiplatform project to show climate related emission data from https://climatetrace.org/data.
-- [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, Compose Multiplatform and SwiftUI iOS clients along with GraphQL backend.
+- [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP/ CMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, Compose Multiplatform and SwiftUI iOS clients along with GraphQL backend.
 - [joreilly/FantasyPremierLeague](https://github.com/joreilly/FantasyPremierLeague) - Fantasy Premier League Kotlin Multiplatform sample using Jetpack Compose, Compose for Desktop and SwiftUI (and Room for local persistence)
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [jwstegemann/fritz2](https://github.com/jwstegemann/fritz2) - Easily build reactive web-apps in Kotlin based on flows and coroutines.
@@ -813,7 +814,7 @@ A collection of awesome things.
 - [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 - [maxkeppeler/sheets](https://github.com/maxkeppeler/sheets) - ⭐ ‎‎‎‏‏‎ ‎Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many  ways to customize sheets.
 - [mayokunadeniyi/Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather) - An Android weather application implemented using the MVVM pattern, Retrofit2, Dagger Hilt, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the Android Jetpack.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open source tool to monitor mobile apps. 
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open-source tool to monitor mobile apps. We connect the dots between user actions, app events, network calls, logs, and errors to make debugging production issues easy! Star us to support ⭐ 
 - [meenbeese/Chronos](https://github.com/meenbeese/Chronos) - A simple alarm clock focused on simplicity, usability and modern design.
 - [mfwgenerics/kapshot](https://github.com/mfwgenerics/kapshot) - Kotlin Compiler Plugin for source capture
 - [mfwgenerics/markout](https://github.com/mfwgenerics/markout) - Kotlin DSL for Markdown and file trees
@@ -827,7 +828,7 @@ A collection of awesome things.
 - [minibugdev/SheetSelection](https://github.com/minibugdev/SheetSelection) - An Android library for display list and be able to select the item as BottomSheet.
 - [mirzemehdi/FindTravelNow-KMM](https://github.com/mirzemehdi/FindTravelNow-KMM) - FindTravelNow - metasearch travel application that is available both in iOS and Android store developed with Kotlin Multiplatform + Compose Multiplatform.
 - [mmobin789/pixel](https://github.com/mmobin789/pixel) - A lightweight image loader for Android backed by Kotlin Coroutines.
-- [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless Mobile UI Automation
 - [mobilejazz/harmony-kotlin](https://github.com/mobilejazz/harmony-kotlin) - Harmony framework for Kotlin
 - [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin) - Using Mockito with Kotlin
 - [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin
@@ -854,6 +855,7 @@ A collection of awesome things.
 - [ndenicolais/Stopwatch](https://github.com/ndenicolais/Stopwatch) - Android application built with Kotlin and Jetpack Compose that allows you to time the time spent in a certain activity. Time can be started, stopped and resumed.
 - [nesk/akkurate](https://github.com/nesk/akkurate) - The expressive validation library for Kotlin
 - [nicolashaan/resultat](https://github.com/nicolashaan/resultat) - Resultat is kotlin.Result with a loading state
+- [nikbulavin/flick](https://github.com/nikbulavin/flick) - 🎬 A movie app built entirely with Jetpack Compose and Material 3
 - [nikhilpanju/Tablespoon](https://github.com/nikhilpanju/Tablespoon) - Bind attributes easily in your custom views using annotations.
 - [nikit19/ScreenshotDetector](https://github.com/nikit19/ScreenshotDetector) - A demo app to show how to detect screenshots taken by the user while using the app
 - [nikoarap/compose-kit](https://github.com/nikoarap/compose-kit) - An easy-to-use, essential toolkit for Jetpack Compose, built to help you create beautiful, consistent user interfaces following Material3 guidelines and styles
@@ -1050,7 +1052,6 @@ A collection of awesome things.
 - [vestrel00/contacts-android](https://github.com/vestrel00/contacts-android) - Android Contacts API Library written in Kotlin with Java interoperability. No more ContentProviders and cursors. Say goodbye to ContactsContract. Build your own contacts app!
 - [vgupta98/compose-game](https://github.com/vgupta98/compose-game) - A simple 2D game engine built purely in Jetpack Compose.
 - [vinodbaste/Image-compressor](https://github.com/vinodbaste/Image-compressor) - An Android Image compress library, reduce's the size of the image by 90% without losing any of its pixels.
-- [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Android Timeline View is used to display views like Tracking of shipment/order, steppers etc. 
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [vladimirlogachov/MoviesPot](https://github.com/vladimirlogachov/MoviesPot) - Movie Explorer: Kotlin and Compose multiplatform project for discovering movies with ease. Features Jetpack Navigation, Paging library integration, adaptive icons and a Material3-based UI that supports dynamic theme.
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
@@ -1100,7 +1101,6 @@ A collection of awesome things.
 
 ## Python
 
-- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -1170,10 +1170,10 @@ A collection of awesome things.
 - [crs-k/release-draft](https://github.com/crs-k/release-draft) - Creates & updates GitHub release draft, automatically generates release notes, and bumps semver compliant tags.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide.
 - [robrechtme/loco-cli](https://github.com/robrechtme/loco-cli) - 🌍 CLI tool for uploading/downloading assets from Loco.
@@ -1201,6 +1201,7 @@ A collection of awesome things.
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [enginebai/Algorithms](https://github.com/enginebai/Algorithms) - Data Structures and Algorithm (in Kotlin & Python): notes, resources and problems/solutions.
 - [ermolnik/android_roadmap](https://github.com/ermolnik/android_roadmap) - Skills set for android developer
+- [frostyshadows/android-cheatsheet](https://github.com/frostyshadows/android-cheatsheet) - Helpful visual guides for Android development
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [igorwojda/android-ecosystem-cheat-sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - 🤖Android Ecosystem Cheatsheet 2020
 - [intuit/sdp](https://github.com/intuit/sdp) - An Android lib that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size.
