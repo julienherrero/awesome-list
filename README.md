@@ -48,7 +48,7 @@ A collection of awesome things.
 ## C++
 
 - [facebookarchive/conceal](https://github.com/facebookarchive/conceal) - Conceal provides easy Android APIs for performing fast encryption and authentication of data.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) -  🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## CSS
@@ -61,7 +61,7 @@ A collection of awesome things.
 
 ## Dart
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [Lacerte/clima](https://github.com/Lacerte/clima) - MOVED TO https://codeberg.org/Lacerte/clima
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
@@ -467,7 +467,7 @@ A collection of awesome things.
 - [SEAbdulbasit/MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) - This is a music player app built using Compose Multiplatform UI and KMP that works on Android, iOS, Desktop, and Web platforms.
 - [SEAbdulbasit/TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP) - JetBrains Compose Multiplatform UI App (Android, iOS, Desktop, Web). MVVM - Kotlin MultiPlatform (KMP)
 - [SEAbdulbasit/recipe-app](https://github.com/SEAbdulbasit/recipe-app) - Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop.
-- [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller (Experimental)
+- [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [SciProgCentre/maps-kt](https://github.com/SciProgCentre/maps-kt) - 
 - [Shopify/android-testify](https://github.com/Shopify/android-testify) - Add screenshots to your Android tests
 - [ShreyashKore/wonderous_compose](https://github.com/ShreyashKore/wonderous_compose) - Wonderous Compose is a port of Wonderous in Compose Multiplatform.
@@ -621,7 +621,7 @@ A collection of awesome things.
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 - [colintheshots/MarkdownTwain](https://github.com/colintheshots/MarkdownTwain) - A Jetpack Compose UI library for editing Markdown content on Android, based on Markwon
 - [commandiron/CheckPack](https://github.com/commandiron/CheckPack) - CheckPack is a native android checklist app for those going on vacation, written in Kotlin using Jetpack Compose.
-- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Unstyled, fully accessible Compose Multiplatform UI components that you can customize to your heart's content.
+- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Compose Unstyled is a set of foundational components for building high-quality, accessible design systems in Compose Multiplatform.
 - [cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
 - [cortinico/ktfmt-gradle](https://github.com/cortinico/ktfmt-gradle) - A Gradle plugin to apply ktfmt to your builds, and reformat you Kotlin source code like a glimpse 🧹🐘
 - [cortinico/slidetoact](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
@@ -670,7 +670,7 @@ A collection of awesome things.
 - [emirhanemmez/MultiStepsProgressBar](https://github.com/emirhanemmez/MultiStepsProgressBar) - A customizable onboarding progressbar component
 - [enginebai/AndroidBase](https://github.com/enginebai/AndroidBase) - Android project template for Gradle Kotlin DSL + 100% Kotlin + Base module + Extensions = ❤️
 - [enginebai/MovieHunt](https://github.com/enginebai/MovieHunt) - Movie Android App written in Kotlin, MVVM, RxJava, Jetpack Compose (implementing), Android Architecture Components and Coroutine (Upcoming).
-- [erdo/n8](https://github.com/erdo/n8) - state based navigation library
+- [erdo/n8](https://github.com/erdo/n8) - KMP state based navigation library
 - [erfansn/NsmaVPN](https://github.com/erfansn/NsmaVPN) - 🌎 Access to freedom in the internet world only with one switch! 
 - [erfansn/SiliconeCalculator](https://github.com/erfansn/SiliconeCalculator) - 🎨 Simple but attractive graphic a calculator built with Jetpack Compose
 - [erikc5000/island-time](https://github.com/erikc5000/island-time) - A Kotlin Multiplatform library for working with dates and times
@@ -765,7 +765,7 @@ A collection of awesome things.
 - [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Kotlin Multiplatform library for monitoring network connectivity
 - [jordond/transformerKt](https://github.com/jordond/transformerKt) - 🔧 A Kotlin coroutine wrapper around Media3's Transformer API.
 - [joreilly/ClimateTraceKMP](https://github.com/joreilly/ClimateTraceKMP) - Kotlin/Compose Multiplatform project to show climate related emission data from https://climatetrace.org/data.
-- [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP/ CMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, Compose Multiplatform and SwiftUI iOS clients along with GraphQL backend.
+- [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP/CMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, and Compose Multiplatform Desktop, Web and iOS clients along with GraphQL backend.
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [jwstegemann/fritz2](https://github.com/jwstegemann/fritz2) - Easily build reactive web-apps in Kotlin based on flows and coroutines.
 - [kaleidot725/ScrcpyHub](https://github.com/kaleidot725/ScrcpyHub) - ScrcpyHub is a GUI application to use scrcpy. scrcpy is a tool to mirror the android screen. (Scrcpy GUI)
@@ -828,7 +828,7 @@ A collection of awesome things.
 - [mfwgenerics/markout](https://github.com/mfwgenerics/markout) - Kotlin DSL for Markdown and file trees
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [michaelbull/kotlin-inline-logger](https://github.com/michaelbull/kotlin-inline-logger) - A logger facilitating lazily-evaluated log calls via Kotlin's inline classes & functions.
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments 
+- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform environments 
 - [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
 - [mikepenz/FastAdapter](https://github.com/mikepenz/FastAdapter) - The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
@@ -1014,7 +1014,7 @@ A collection of awesome things.
 - [superjobru/kotlin-permissions](https://github.com/superjobru/kotlin-permissions) - An Android library, written in Kotlin, which helps avoid boilerplate code when your request runtime permissions.(KotlinPermissions)
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [swapnil-musale/JetJoke](https://github.com/swapnil-musale/JetJoke) - JetJoke App build using Jetpack Compose by following Clean + MVVM Architecture and with other Android Modern Architecture Component.
-- [swapnil-musale/KDeviceInfo](https://github.com/swapnil-musale/KDeviceInfo) - Multiplatform Library for accessing DeviceInfo
+- [swapnil-musale/KDeviceInfo](https://github.com/swapnil-musale/KDeviceInfo) - Kotlin/Compose Multiplatform Library for accessing DeviceInfo
 - [swvl/linta](https://github.com/swvl/linta) - A set of useful lint checks to keep the Android app follow a solid design system
 - [taewooyo/shaker](https://github.com/taewooyo/shaker) - 👋 Modifier's optimally created rotation, translation, and zoom animations are fully customizable for Android. Only Jetpack Compose is supported. 🫨
 - [tasomaniac/DevWidget](https://github.com/tasomaniac/DevWidget) - Android app widget for developers to control their apps quickly
@@ -1179,11 +1179,11 @@ A collection of awesome things.
 - [crs-k/release-draft](https://github.com/crs-k/release-draft) - Creates & updates GitHub release draft, automatically generates release notes, and bumps semver compliant tags.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy.
 - [robrechtme/loco-cli](https://github.com/robrechtme/loco-cli) - 🌍 CLI tool for uploading/downloading assets from Loco.
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
