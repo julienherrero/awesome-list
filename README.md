@@ -614,10 +614,12 @@ A collection of awesome things.
 - [cmelchior/realmfieldnameshelper](https://github.com/cmelchior/realmfieldnameshelper) - Realm extension library used to create more type-safe queries.
 - [codeandtheory/YCharts](https://github.com/codeandtheory/YCharts) - YCharts is a graph library for Android.
 - [codeandtheory/ytemplate-android](https://github.com/codeandtheory/ytemplate-android) - Y—Template aims to build your initial setup for your Android project quickly. 
+- [codecv-co/codecv](https://github.com/codecv-co/codecv) - Manage your resume as structured data: CV format specification and tools to manage CV documents.
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 - [colintheshots/MarkdownTwain](https://github.com/colintheshots/MarkdownTwain) - A Jetpack Compose UI library for editing Markdown content on Android, based on Markwon
 - [commandiron/CheckPack](https://github.com/commandiron/CheckPack) - CheckPack is a native android checklist app for those going on vacation, written in Kotlin using Jetpack Compose.
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+- [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
 - [cortinico/ktfmt-gradle](https://github.com/cortinico/ktfmt-gradle) - A Gradle plugin to apply ktfmt to your builds, and reformat you Kotlin source code like a glimpse 🧹🐘
 - [cortinico/slidetoact](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
@@ -709,7 +711,6 @@ A collection of awesome things.
 - [hasanalic/E-Commerce](https://github.com/hasanalic/E-Commerce) - This project is an example e-commerce mobile application developed following Clean Architecture principles and using the MVVM (Model-View-ViewModel) architecture.
 - [hashlin/rally](https://github.com/hashlin/rally) - Unofficial Implementation of Material Studies https://material.io/design/material-studies/rally.html
 - [hbb20/AndroidCountryPicker](https://github.com/hbb20/AndroidCountryPicker) - Android Country Picker is a Kotlin-first, flexible and powerful Android library that allows to integrate Country Picker with just a few lines.
-- [hexagontk/codecv](https://github.com/hexagontk/codecv) - Manage your resume as structured data: CV format specification and tools to manage CV documents.
 - [hexascribe/chatbot-builder](https://github.com/hexascribe/chatbot-builder) - ChatBot Builder is a kotlin compose multiplatform library that you can seamlessly customize the Chat UI to match the look and feel of your application, while also having the ability to define specific instructions for the bot's behavior.
 - [hi-manshu/charty](https://github.com/hi-manshu/charty) - Weave data into enchanting Jetpack Compose graphs—no potions required! 📜🔮
 - [hi-manshu/kalendar](https://github.com/hi-manshu/kalendar) - Kalendar is no ordinary library — it’s the Elder Wand of calendar components, crafted for Compose (now with KMP support) sorcerers who demand both power and elegance. With the flick of your wrist (or a few lines of Kotlin), you conjure a magical, interactive calendar that bends to your will. With Kalendar, your app becomes as organized as Hermione
@@ -720,7 +721,7 @@ A collection of awesome things.
 - [iamjosephmj/Raccoon](https://github.com/iamjosephmj/Raccoon) - Raccoon is a lightweight response mocking framework that can be easily integrated into the Android UI tests.
 - [iamjosephmj/flinger](https://github.com/iamjosephmj/flinger) - Lightweight library to tweak the fling behaviour in Android. This library is only compatible with Jetpack-Compose.
 - [iamnaran/beetle](https://github.com/iamnaran/beetle) - A Wear Os App with Jetpack Compose - beetle
-- [iamnaran/firefly-compose](https://github.com/iamnaran/firefly-compose) - A Jetpack Compose App | Android | Compose | MVVM | Hilt | Room | Clean Architecture | Login Authentication | Bottom Navigation | Localization | Dialogs | Nested Lazy Column
+- [iamnaran/firefly-compose](https://github.com/iamnaran/firefly-compose) - A Jetpack Compose App | Android | Compose | MVVM | Hilt | Room | Clean Architecture | Authentication | Bottom Navigation | Localization | Dialogs | Nested Lazy Column
 - [ibenabdallah/the-movie-db](https://github.com/ibenabdallah/the-movie-db) - The Movie BD : Android 📱, iOS 📱 and wearOS ⌚ application built with Kotlin Multiplatform, Compose Multiplatform with MVVM, Clean Architecture recommended by Google
 - [ibrahimsn98/Freya](https://github.com/ibrahimsn98/Freya) - A lightweight, simplified form validation library for Android
 - [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
@@ -924,7 +925,7 @@ A collection of awesome things.
 - [rommansabbir/NetworkX](https://github.com/rommansabbir/NetworkX) - 🅽🅴🆃🆆🅾🆁🅺🆇 An easy & handy library to monitor device internet connection status.
 - [rongi/klaster](https://github.com/rongi/klaster) - Declare RecyclerView adapters in a functional way, without boilerplate and subclassing. No compromises on flexibility. If it's possible to do something by subclassing, it's possible to do it with this library. 
 - [rosuH/AndroidFilePicker](https://github.com/rosuH/AndroidFilePicker) - FilePicker is a small and fast file selector library that is constantly evolving with the goal of rapid integration, high customization, and configurability~
-- [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
+- [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被人泄露、利用
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
 - [rubensousa/Decorator](https://github.com/rubensousa/Decorator) - Decorator is an Android library that helps creating composable margins and dividers in RecyclerViews
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -998,7 +999,6 @@ A collection of awesome things.
 - [square/curtains](https://github.com/square/curtains) - Lift the curtain on Android Windows!
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
 - [st235/ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) - A new way to implement navigation in your app 🏎
-- [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV and mobile app to stream movies and TV shows for free
 - [stefanoq21/BottomSheetNavigator3](https://github.com/stefanoq21/BottomSheetNavigator3) - This library provides a navigation solution for Compose projects using Material3 BottomSheets
 - [stevdza-san/MessageBarCompose](https://github.com/stevdza-san/MessageBarCompose) - Animated Message Bar UI that can be wrapped around your screen content in order to display Error/Success messages in your app. Adapted to Material 3.
 - [stfalcon-studio/StfalconFixturer-android](https://github.com/stfalcon-studio/StfalconFixturer-android) -  Utility for developers and QAs what helps minimize time wasting on writing the same data for testing over and over again. Made by Stfalcon 
@@ -1160,7 +1160,7 @@ A collection of awesome things.
 ## Swift
 
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
-- [poviolabs/Lingua](https://github.com/poviolabs/Lingua) - A unified localization management tool for iOS & Android
+- [povio/Lingua](https://github.com/povio/Lingua) - A unified localization management tool for iOS & Android
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 
 ## TypeScript
