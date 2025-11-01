@@ -170,6 +170,7 @@ A collection of awesome things.
 - [gradle/wrapper-upgrade-gradle-plugin](https://github.com/gradle/wrapper-upgrade-gradle-plugin) - Gradle plugin that detects and updates Gradle and Maven wrappers to the latest Gradle and Maven version.
 - [grishka/poke.dex](https://github.com/grishka/poke.dex) - 
 - [hbb20/CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject) - Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation.
+- [iamyorchdev/rings](https://github.com/iamyorchdev/rings) - A simple chart for Android with three indicators and one more to indicate overall summary. They get highlighted if you click on the ring or text.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [imablanco/Zoomy](https://github.com/imablanco/Zoomy) - Zoomy is an easy to use pinch-to-zoom Android library
 - [infinum/Android-Goldfinger](https://github.com/infinum/Android-Goldfinger) - Android library to simplify Biometric authentication implementation.
@@ -186,7 +187,6 @@ A collection of awesome things.
 - [jraska/livedata-testing](https://github.com/jraska/livedata-testing) - TestObserver to easily test LiveData and make assertions on them.
 - [jrvansuita/MaterialAbout](https://github.com/jrvansuita/MaterialAbout) - 🔖 It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate. 
 - [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
-- [lalongooo/rings](https://github.com/lalongooo/rings) - A simple chart for Android with three indicators and one more to indicate overall summary. They get highlighted if you click on the ring or text.
 - [lionscribe/libphonenumber-android](https://github.com/lionscribe/libphonenumber-android) - A better Android port of Google's libphonenumber, optionally includes Geocoding
 - [lisawray/groupie](https://github.com/lisawray/groupie) - Groupie helps you display and manage complex RecyclerView layouts.
 - [livefront/bridge](https://github.com/livefront/bridge) - An Android library for avoiding TransactionTooLargeException during state saving and restoration
@@ -776,6 +776,7 @@ A collection of awesome things.
 - [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose) - Android Jetpack Compose components of open-source Orbit design system by Kiwi.com.
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [klogging/klogging](https://github.com/klogging/klogging) - Kotlin logging library with structured logging and coroutines support
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx) - Light. Fast. Native. – Klyx is a lightweight, high-performance code editor built for Android.
 - [kojofosu/PasswordValidationView](https://github.com/kojofosu/PasswordValidationView) - Android UI component to validate passwords.
 - [kojofosu/Quantitizer](https://github.com/kojofosu/Quantitizer) - :sparkles: A quantity stepper for android projects
 - [kojofosu/SplitButton](https://github.com/kojofosu/SplitButton) -  A dual-function menu button that offers a default action as well as the possibility of choosing a different action by selecting from a set of alternatives.
@@ -1161,7 +1162,7 @@ A collection of awesome things.
 
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [povio/Lingua](https://github.com/povio/Lingua) - A unified localization management tool for iOS & Android
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
 
 ## TypeScript
 
