@@ -47,7 +47,7 @@ A collection of awesome things.
 ## C++
 
 - [facebookarchive/conceal](https://github.com/facebookarchive/conceal) - Conceal provides easy Android APIs for performing fast encryption and authentication of data.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## CSS
@@ -69,6 +69,7 @@ A collection of awesome things.
 
 ## Go
 
+- [ErikHellman/unified-android-cli](https://github.com/ErikHellman/unified-android-cli) - A unified CLI for everything related to Android Development
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [KarnerTh/mermerd](https://github.com/KarnerTh/mermerd) - Create Mermaid-Js ERD diagrams from existing tables
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
@@ -475,7 +476,6 @@ A collection of awesome things.
 - [SmartToolFactory/Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation,  Navigation, Canvas, UIs like whatsapp and others.
 - [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
 - [SnipMeDev/KodeView](https://github.com/SnipMeDev/KodeView) - Kotlin Multiplatform syntax highlighting views
-- [Spendesk/grapes-android](https://github.com/Spendesk/grapes-android) - Spendesk Android Grapes design system.
 - [Spikeysanju/JetQuotes](https://github.com/Spikeysanju/JetQuotes) - 🔖 A Quotes Application built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
 - [Spikeysanju/MotionToast](https://github.com/Spikeysanju/MotionToast) - 🌈 A Beautiful Motion Toast Library for Kotlin Android
 - [Spikeysanju/ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) - 🎢 Zoom Recycler Layout Manager For Android Kotlin
@@ -585,7 +585,7 @@ A collection of awesome things.
 - [bayu07750/MaterialAndroidForDevelopers](https://github.com/bayu07750/MaterialAndroidForDevelopers) - Material Android For Developers (MAFD) allows you to explore all components currently supported by Compose Material 3, side by side with the code.
 - [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [block/radiography](https://github.com/block/radiography) - Text-ray goggles for your Android UI.
-- [bloomberg/selekt](https://github.com/bloomberg/selekt) - A Kotlin and familiar Android SQLite database library that uses encryption and also targets the JVM.
+- [bloomberg/selekt](https://github.com/bloomberg/selekt) - Android and JVM SQLite database library that uses encryption.
 - [bluegroundltd/kfactory](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
 - [bmcreations/scrcast](https://github.com/bmcreations/scrcast) - Drop-in Android Screen Recording Library
 - [boitakub/Bogadex](https://github.com/boitakub/Bogadex) - 🎲 BoardGameGeek collections explorer application using Compose, Koin, Flow, Room, Work Manager based on MVVM architecture.
@@ -697,7 +697,7 @@ A collection of awesome things.
 - [google/secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
 - [gotev/android-cookie-store](https://github.com/gotev/android-cookie-store) - Android InMemory and persistent Cookie Store for HttpURLConnection and OkHttp, with extensions to easily sync cookies in Android WebViews.
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
-- [grarcht/Shuttle](https://github.com/grarcht/Shuttle) - Shuttle provides a modern, guarded way to pass large Serializable objects with Intents or saving them in Bundle objects to avoid app crashes from TransactionTooLargeExceptions.
+- [grarcht/Shuttle](https://github.com/grarcht/Shuttle) - Stop patching TransactionTooLargeException. Shuttle eliminates it at the source by warehousing large Serializable objects and passing only a lightweight identifier. No crashes. No code review babysitting.
 - [grofers/droid-dex](https://github.com/grofers/droid-dex) - Classification and Analysis of Android Device Performance
 - [gruffins/birch-android](https://github.com/gruffins/birch-android) - Remote logger used with the Birch logging platform
 - [guichristovao/poke-themes](https://github.com/guichristovao/poke-themes) - An Android project to showcase a multi-brand design system.
@@ -939,6 +939,7 @@ A collection of awesome things.
 - [sangcomz/FishBun](https://github.com/sangcomz/FishBun) - :blowfish:FishBun is Image Picker for android.
 - [santalu/maskara](https://github.com/santalu/maskara) - A simple way to format text fields without getting affected by input filters
 - [santalu/textmatcher](https://github.com/santalu/textmatcher) - A simple text watcher that matches specific targets like mention or hashtag in a string by defining rules
+- [santimattius/structured-coroutines](https://github.com/santimattius/structured-coroutines) - The definitive toolkit for enforcing safety, predictability, and efficiency in Kotlin Coroutines.
 - [saschpe/Log4K](https://github.com/saschpe/Log4K) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 - [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - [savepopulation/gadget](https://github.com/savepopulation/gadget) - Gadget is a library that makes analytics tracking easier for android apps
@@ -1179,7 +1180,7 @@ A collection of awesome things.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [robrechtme/loco-cli](https://github.com/robrechtme/loco-cli) - 🌍 CLI tool for uploading/downloading assets from Loco.
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
