@@ -90,6 +90,7 @@ A collection of awesome things.
 ## Groovy
 
 - [asciidoctor/asciidoctor-gradle-plugin](https://github.com/asciidoctor/asciidoctor-gradle-plugin) - A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [green-code-initiative/creedengo-android-java](https://github.com/green-code-initiative/creedengo-android-java) - Reduce the environmental footprint of your Java-based Android apps with SonarQube
 - [lessthanoptimal/gversion-plugin](https://github.com/lessthanoptimal/gversion-plugin) - Gradle plugin for autogenerating version info from gradle and git
 - [platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter) - Gradle dependencies formatter for IntelliJ IDEA
@@ -173,8 +174,8 @@ A collection of awesome things.
 - [infinum/Android-Goldfinger](https://github.com/infinum/Android-Goldfinger) - Android library to simplify Biometric authentication implementation.
 - [infinum/Android-Prince-of-Versions](https://github.com/infinum/Android-Prince-of-Versions) - Android library for handling application updates.
 - [infinum/android-complexify](https://github.com/infinum/android-complexify) - An Android library which makes checking the quality of user's password a breeze.
-- [insideapp-oss/sonar-apple](https://github.com/insideapp-oss/sonar-apple) - SonarQube plugin for Swift / Objective-C
-- [insideapp-oss/sonar-flutter](https://github.com/insideapp-oss/sonar-flutter) - SonarQube plugin for Flutter / Dart
+- [insideapp-fr/sonar-apple](https://github.com/insideapp-fr/sonar-apple) - SonarQube plugin for Swift / Objective-C
+- [insideapp-fr/sonar-flutter](https://github.com/insideapp-fr/sonar-flutter) - SonarQube plugin for Flutter / Dart
 - [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - An android lib for enhancing BottomNavigationView. 一个增强BottomNavigationView的安卓库。
 - [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
 - [jgilfelt/chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
@@ -514,7 +515,7 @@ A collection of awesome things.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more
 - [WhiteDog-Apps/FoldableActivity_Android](https://github.com/WhiteDog-Apps/FoldableActivity_Android) - Android library that simplifies the logic necessary to detect state changes in foldable devices
 - [WindSekirun/RxSocialLogin](https://github.com/WindSekirun/RxSocialLogin) - An Android Library that provides social login for 15 platforms within by RxJava2, Kotlin and Firebase Authentication. 
-- [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
+- [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Beautiful Two-factor Authentication app
 - [YanneckReiss/KConMapper](https://github.com/YanneckReiss/KConMapper) - The Kotlin Constructor Mapper (KConMapper / KCM) automatically generates mapping functions for performing mapping between one class and the constructor of another class via the Kotlin Symbol Processing (KSP) compiler plugin.
 - [YarikSOffice/venom](https://github.com/YarikSOffice/venom) - A lightweight tool that simplifies testing of the process death scenario.
 - [YvesCheung/RollingText](https://github.com/YvesCheung/RollingText) - Android TextView with rolling animation
@@ -584,7 +585,6 @@ A collection of awesome things.
 - [ayodelekehinde/Kicks](https://github.com/ayodelekehinde/Kicks) - A Kotlin Multiplatform Mobile simple music streaming app
 - [bastienpaulfr/Treessence](https://github.com/bastienpaulfr/Treessence) - Some trees for Timber lib
 - [bayu07750/MaterialAndroidForDevelopers](https://github.com/bayu07750/MaterialAndroidForDevelopers) - Material Android For Developers (MAFD) allows you to explore all components currently supported by Compose Material 3, side by side with the code.
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [block/radiography](https://github.com/block/radiography) - Text-ray goggles for your Android UI.
 - [bloomberg/selekt](https://github.com/bloomberg/selekt) - Android and JDBC SQLite database library that offers encryption.
 - [bluegroundltd/kfactory](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
@@ -653,7 +653,6 @@ A collection of awesome things.
 - [dokar3/ExpandableText](https://github.com/dokar3/ExpandableText) - A small library to display expandable texts in Jetpack Compose.
 - [dokar3/compose-sonner](https://github.com/dokar3/compose-sonner) - An opinionated toast component for Compose Multiplatform.
 - [dokar3/sheets](https://github.com/dokar3/sheets) - Another feature-rich bottom sheet for Compose Multiplatform.
-- [dotanuki-labs/android-archives-watchdog](https://github.com/dotanuki-labs/android-archives-watchdog) - A tool to shift-left sensitive changes on your Android deployable archives
 - [drawers/abecedary](https://github.com/drawers/abecedary) - A set of lint rules for ordering Kotlin enums, sealed classes, and more
 - [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard) - A Gradle plugin that guards against unintentional dependency changes.
 - [dropbox/focus](https://github.com/dropbox/focus) - A Gradle plugin that helps you speed up builds by excluding unnecessary modules.
@@ -855,6 +854,7 @@ A collection of awesome things.
 - [naverz/Antonio](https://github.com/naverz/Antonio) - Android library for the adapter view (RecyclerView, ViewPager, ViewPager2)
 - [ncapdevi/FragNav](https://github.com/ncapdevi/FragNav) - An Android library for managing multiple stacks of fragments
 - [ndenicolais/Stopwatch](https://github.com/ndenicolais/Stopwatch) - Android application built with Kotlin and Jetpack Compose that allows you to time the time spent in a certain activity. Time can be started, stopped and resumed.
+- [nekuroporisu/android-archives-watchdog](https://github.com/nekuroporisu/android-archives-watchdog) - A tool to shift-left sensitive changes on your Android deployable archives
 - [nesk/akkurate](https://github.com/nesk/akkurate) - The expressive validation library for Kotlin
 - [nicolashaan/resultat](https://github.com/nicolashaan/resultat) - Resultat is kotlin.Result with a loading state
 - [nikbulavin/flick](https://github.com/nikbulavin/flick) - 🎬 A movie app built entirely with Jetpack Compose and Material 3
@@ -1045,7 +1045,7 @@ A collection of awesome things.
 - [usefulness/easylauncher-gradle-plugin](https://github.com/usefulness/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin. Of course, configure it as you will
 - [usefulness/licensee-for-android](https://github.com/usefulness/licensee-for-android) - Turn raw cashapp/licensee report into assets/Kotlin code that can be easily consumed from an Android app
 - [usefulness/project-starter](https://github.com/usefulness/project-starter) - Set of plugins that may be useful in Multi-Module Android projects
-- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Mobile app for planning tasks for the day with multimodule architecture, MVI, Compose, Room, Voyager, AlarmManager, Notification, Charts
+- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Convenient and fast task planning for the day
 - [valkriaine/Bouncy](https://github.com/valkriaine/Bouncy) - RecyclerView and NestedScrollView with physics-based bouncy overscroll effect
 - [vanniktech/Emoji](https://github.com/vanniktech/Emoji) - A library to add Emoji support to your Android / iOS / JVM Application
 - [vanniktech/multiplatform-locale](https://github.com/vanniktech/multiplatform-locale) - Type Safe Kotlin Multiplatform Locale implementation
@@ -1106,7 +1106,7 @@ A collection of awesome things.
 
 ## Python
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
