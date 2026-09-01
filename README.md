@@ -259,7 +259,6 @@ A collection of awesome things.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 
 ## Jupyter Notebook
 
@@ -327,7 +326,7 @@ A collection of awesome things.
 - [Darkrock-Studios/ComposeTextEditor](https://github.com/Darkrock-Studios/ComposeTextEditor) - Compose's missing Rich Text editor
 - [Darkrock-Studios/SymSpellKt](https://github.com/Darkrock-Studios/SymSpellKt) - A Kotlin Multiplatform implementation of the SymSpell algorithm.
 - [Decathlon/vitamin-android](https://github.com/Decathlon/vitamin-android) - Decathlon Design System UI components for Android applications
-- [DenisBronx/NetMock](https://github.com/DenisBronx/NetMock) - 
+- [DenisBronx/NetMock](https://github.com/DenisBronx/NetMock) - NetMock is a powerful testing library that makes it incredibly easy to unit test your network requests. It is compatible with Java, Kotlin, Android, and Kotlin-Multiplatform making it a versatile option for developers working on different platforms.
 - [DenisBronx/Real-Clean-Architecture-In-Android---Sample](https://github.com/DenisBronx/Real-Clean-Architecture-In-Android---Sample) - This project demonstrates how to implement Clean Architecture in an Android application, adhering strictly to the SOLID principles. It aims to provide a clear example of Clean Architecture while minimizing the use of third-party libraries.
 - [DevSrSouza/compose-icons](https://github.com/DevSrSouza/compose-icons) - Popular Open Source icon packs for Compose Multiplatform
 - [Devlight/CornerCutLinearLayout](https://github.com/Devlight/CornerCutLinearLayout) - Linear Layout that allow corner (parent and children) cuts, complex shadow and divider.
@@ -422,7 +421,7 @@ A collection of awesome things.
 - [MarcinMoskala/VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, loader and placeholder image
 - [Marvel999/Arc-Progressbar-lib](https://github.com/Marvel999/Arc-Progressbar-lib) - ArcProgressbar project let create Arc progressbar in android in simplest way.
 - [MiSikora/laboratory](https://github.com/MiSikora/laboratory) - Feature flags for multi-module Kotlin Android projects
-- [MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store) - A Kotlin Multiplatform solution for working with data. Whether you’re building alone or with a team of thousands, Store can help
+- [MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store) - A library for reading and writing data that lives in network, disk, and memory.
 - [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).
 - [MohamedRejeb/Ksoup](https://github.com/MohamedRejeb/Ksoup) - Ksoup is a lightweight Kotlin Multiplatform library for parsing HTML, extracting HTML tags, attributes, and text, and encoding and decoding HTML entities.
 - [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Markdown.
@@ -586,7 +585,7 @@ A collection of awesome things.
 - [bastienpaulfr/Treessence](https://github.com/bastienpaulfr/Treessence) - Some trees for Timber lib
 - [bayu07750/MaterialAndroidForDevelopers](https://github.com/bayu07750/MaterialAndroidForDevelopers) - Material Android For Developers (MAFD) allows you to explore all components currently supported by Compose Material 3, side by side with the code.
 - [block/radiography](https://github.com/block/radiography) - Text-ray goggles for your Android UI.
-- [bloomberg/selekt](https://github.com/bloomberg/selekt) - Android and JDBC SQLite database library that offers encryption.
+- [bloomberg/selekt](https://github.com/bloomberg/selekt) - SQLite-wrapping libraries for JVM 25+ (JDBC via FFM) and for Android (mirrors Android's SQLite APIs), with encryption and SQLite-aware connection pooling.
 - [bluegroundltd/kfactory](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
 - [bmcreations/scrcast](https://github.com/bmcreations/scrcast) - Drop-in Android Screen Recording Library
 - [boitakub/Bogadex](https://github.com/boitakub/Bogadex) - 🎲 BoardGameGeek collections explorer application using Compose, Koin, Flow, Room, Work Manager based on MVVM architecture.
@@ -778,7 +777,7 @@ A collection of awesome things.
 - [kojofosu/SplitButton](https://github.com/kojofosu/SplitButton) -  A dual-function menu button that offers a default action as well as the possibility of choosing a different action by selecting from a set of alternatives.
 - [kool-engine/kool](https://github.com/kool-engine/kool) - A Vulkan /  WebGPU / OpenGL engine for Desktop JVM, Android and Javascript written in Kotlin
 - [kopykat-kt/kopykat](https://github.com/kopykat-kt/kopykat) - Little utilities for more pleasant immutable data in Kotlin
-- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
 - [korsumaki/wifi-radar](https://github.com/korsumaki/wifi-radar) - Wifi Radar is application which create map based on Wifi signal strength
 - [kosi-libs/Canard](https://github.com/kosi-libs/Canard) - Kotlin/Multiplatform lightweight logging library.
 - [kostasdrakonakis/android_navigator](https://github.com/kostasdrakonakis/android_navigator) - Android Intents made easy!!!
@@ -960,7 +959,7 @@ A collection of awesome things.
 - [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server & client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion.
 - [skydoves/AndroidBottomBar](https://github.com/skydoves/AndroidBottomBar) -  🍫 A lightweight bottom navigation view, fully customizable with an indicator and animations.
 - [skydoves/AndroidVeil](https://github.com/skydoves/AndroidVeil) -  :performing_arts: An easy and flexible way to implement loading skeletons and shimmering effects on layouts for Android.
-- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android and Jetpack Compose.
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin Multiplatform.
 - [skydoves/Chamber](https://github.com/skydoves/Chamber) - ⚖️ A lightweight Android lifecycle-aware and thread-safe pipeline for communicating between components with custom scopes.
 - [skydoves/DoubleLift](https://github.com/skydoves/DoubleLift) - 🦋 Expands and collapses a layout horizontally and vertically sequentially.
 - [skydoves/ElasticViews](https://github.com/skydoves/ElasticViews) - :sparkles: An easy way to implement an elastic touch effect for Android.
@@ -989,7 +988,7 @@ A collection of awesome things.
 - [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree) - A Compose Multiplatform library for pretty Json in Compose
 - [snappdevelopment/Kommute](https://github.com/snappdevelopment/Kommute) - Monitor your android apps network traffic for debugging
 - [sokomishalov/skraper](https://github.com/sokomishalov/skraper) - Kotlin/Java library and cli tool for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, 9GAG, Pinterest, Flickr, Tumblr, Coub, Vimeo, IFunny, VK, Odnoklassniki, Pikabu)
-- [solrudev/Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library
+- [solrudev/Ackpine](https://github.com/solrudev/Ackpine) - Android package installer toolkit
 - [sparrow007/CarouselRecyclerview](https://github.com/sparrow007/CarouselRecyclerview) - Carousel Recyclerview let's you create carousel layout with the power of recyclerview by creating custom layout manager.
 - [speekha/httpmocker](https://github.com/speekha/httpmocker) - HttpMocker is a simple HTTP mocking library written in Kotlin to quickly and easily handle offline modes in your apps
 - [sphrak/Either](https://github.com/sphrak/Either) - ☯️ Either type for Kotlin
@@ -1045,7 +1044,7 @@ A collection of awesome things.
 - [usefulness/easylauncher-gradle-plugin](https://github.com/usefulness/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin. Of course, configure it as you will
 - [usefulness/licensee-for-android](https://github.com/usefulness/licensee-for-android) - Turn raw cashapp/licensee report into assets/Kotlin code that can be easily consumed from an Android app
 - [usefulness/project-starter](https://github.com/usefulness/project-starter) - Set of plugins that may be useful in Multi-Module Android projects
-- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Convenient and fast task planning for the day
+- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Absolutely free, convenient and fast daily task planning
 - [valkriaine/Bouncy](https://github.com/valkriaine/Bouncy) - RecyclerView and NestedScrollView with physics-based bouncy overscroll effect
 - [vanniktech/Emoji](https://github.com/vanniktech/Emoji) - A library to add Emoji support to your Android / iOS / JVM Application
 - [vanniktech/multiplatform-locale](https://github.com/vanniktech/multiplatform-locale) - Type Safe Kotlin Multiplatform Locale implementation
@@ -1061,7 +1060,7 @@ A collection of awesome things.
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [vmiklos/plees-tracker](https://github.com/vmiklos/plees-tracker) - Plees Tracker is a simple sleep tracker for your Android phone.
 - [vovaksenov99/OverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
-- [w2sv/Composed](https://github.com/w2sv/Composed) -  A collection of utils to facilitate development with Jetpack Compose. 
+- [w2sv/Composed](https://github.com/w2sv/Composed) -  Reusable building blocks and utilities for Compose Multiplatform. 
 - [wajahatkarim3/Imagine](https://github.com/wajahatkarim3/Imagine) - An simple image gallery app utilizing Unsplash API to showcase modern Android development architecture (MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit)
 - [walter-juan/compose-icon-collections](https://github.com/walter-juan/compose-icon-collections) - Sets of Compose Multiplatform open source icons
 - [warting/In-App-Update-Compose](https://github.com/warting/In-App-Update-Compose) - A compose friendly way to deal with in app updates on android
@@ -1106,7 +1105,7 @@ A collection of awesome things.
 
 ## Python
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
@@ -1135,7 +1134,7 @@ A collection of awesome things.
 
 ## Rust
 
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [agateau/git-bonsai](https://github.com/agateau/git-bonsai) - Tend the branches of your git garden
 - [kristian1108/notation](https://github.com/kristian1108/notation) - Documentation for developers and other people who might want to read it.
