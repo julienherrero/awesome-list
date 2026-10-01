@@ -2,7 +2,6 @@
 
 A collection of awesome things.
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -32,10 +31,6 @@ A collection of awesome things.
 
 ---
 
-## Batchfile
-
-- [aegis-icons/aegis-icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis.
-
 ## C
 
 - [facebookarchive/profilo](https://github.com/facebookarchive/profilo) - A library for performance traces from production.
@@ -60,12 +55,12 @@ A collection of awesome things.
 
 ## Dart
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Lacerte/clima](https://github.com/Lacerte/clima) - MOVED TO https://codeberg.org/Lacerte/clima
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## Go
 
@@ -79,7 +74,7 @@ A collection of awesome things.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [macintoshpie/ghactionsbyexample](https://github.com/macintoshpie/ghactionsbyexample) - GitHub Actions by Example
@@ -248,7 +243,6 @@ A collection of awesome things.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [Jerome-1010/workflow-time-predictor](https://github.com/Jerome-1010/workflow-time-predictor) - 
 - [aslafy-z/montpellier-tam-api](https://github.com/aslafy-z/montpellier-tam-api) - Montpellier TAM JSON API
-- [azizutku/jacoco-aggregate-coverage-plugin](https://github.com/azizutku/jacoco-aggregate-coverage-plugin) - Unified JaCoCo Code Coverage Plugin for Multi Module Projects
 - [cube-root/directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 - [janaipakos/ghibliapi](https://github.com/janaipakos/ghibliapi) - A simple API for Studio Ghibli resources. Unofficial/fan-made
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
@@ -582,10 +576,11 @@ A collection of awesome things.
 - [auron567/Gallerit](https://github.com/auron567/Gallerit) - A sample Android gallery to search images posted on Reddit, built using modern Android development tools (Architecture Components, MVVM, Coroutines, Flow, Navigation, Retrofit, Room, Koin)
 - [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin) - Gradle plugin for JVM projects written in Java, Kotlin, Groovy, or Scala; and Android projects written in Java or Kotlin. Provides advice for managing dependencies and other applied plugins
 - [ayodelekehinde/Kicks](https://github.com/ayodelekehinde/Kicks) - A Kotlin Multiplatform Mobile simple music streaming app
+- [azizutku/jacoco-aggregate-coverage-plugin](https://github.com/azizutku/jacoco-aggregate-coverage-plugin) - Unified JaCoCo Code Coverage Plugin for Multi Module Projects
 - [bastienpaulfr/Treessence](https://github.com/bastienpaulfr/Treessence) - Some trees for Timber lib
 - [bayu07750/MaterialAndroidForDevelopers](https://github.com/bayu07750/MaterialAndroidForDevelopers) - Material Android For Developers (MAFD) allows you to explore all components currently supported by Compose Material 3, side by side with the code.
 - [block/radiography](https://github.com/block/radiography) - Text-ray goggles for your Android UI.
-- [bloomberg/selekt](https://github.com/bloomberg/selekt) - SQLite-wrapping libraries for JVM 25+ (JDBC via FFM) and for Android (mirrors Android's SQLite APIs), with encryption and SQLite-aware connection pooling.
+- [bloomberg/selekt](https://github.com/bloomberg/selekt) - SQLite-wrapping libraries for the JVM (JDBC, Java 11+) and for Android (mirrors Android's SQLite APIs), with encryption support and SQLite-aware connection pooling.
 - [bluegroundltd/kfactory](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
 - [bmcreations/scrcast](https://github.com/bmcreations/scrcast) - Drop-in Android Screen Recording Library
 - [boitakub/Bogadex](https://github.com/boitakub/Bogadex) - 🎲 BoardGameGeek collections explorer application using Compose, Koin, Flow, Room, Work Manager based on MVVM architecture.
@@ -614,7 +609,7 @@ A collection of awesome things.
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 - [colintheshots/MarkdownTwain](https://github.com/colintheshots/MarkdownTwain) - A Jetpack Compose UI library for editing Markdown content on Android, based on Markwon
 - [commandiron/CheckPack](https://github.com/commandiron/CheckPack) - CheckPack is a native android checklist app for those going on vacation, written in Kotlin using Jetpack Compose.
-- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - A renderless component library for Compose Multiplatform that handles accessibility, state, and UX logic without enforcing any visual styling.
 - [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [cortinico/kotlin-android-template](https://github.com/cortinico/kotlin-android-template) - Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = ❤️
 - [cortinico/ktfmt-gradle](https://github.com/cortinico/ktfmt-gradle) - A Gradle plugin to apply ktfmt to your builds, and reformat you Kotlin source code like a glimpse 🧹🐘
@@ -952,7 +947,7 @@ A collection of awesome things.
 - [sergio-sastre/AndroidUiTestingUtils](https://github.com/sergio-sastre/AndroidUiTestingUtils) - A set of TestRules, ActivityScenarios and utils to facilitate UI and screenshot testing under given configurations: FontSizes, Locales...
 - [sergio11/fitflextv_android](https://github.com/sergio11/fitflextv_android) - FitFlexTV is a home workout app 🏋️‍♀️ I created as a personal learning project. It includes personalized plans 📋 and progress tracking 📊. I used Firebase 🔥 for real-time data and authentication 🔒, Clean Architecture 🏛️ with the MVI pattern, and Jetpack Compose for TV 📺 to build a reusable UI.
 - [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker) - Port of a popular ruby faker gem written in kotlin. Generate realistically looking fake data such as names, addresses, banking details, and many more, that can be used for testing and data anonymization purposes.
-- [side-codes/Android-Color-Picker](https://github.com/side-codes/Android-Color-Picker) - Color picker library for Android
+- [side-codes/anyColorPicker](https://github.com/side-codes/anyColorPicker) - 🎨 Color picker components for Kotlin Multiplatform and Compose Multiplatform — Android, iOS, Web, and Desktop. HSL, RGB, CMYK, LAB.
 - [sidhuparas/TickingTimer](https://github.com/sidhuparas/TickingTimer) - Android Library to implement visual timer quickly, easily and effortlessly
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers 
 - [siralam/LoopingViewPager](https://github.com/siralam/LoopingViewPager) - A ViewPager and PagerAdapter combination that support auto scroll, infinite loop and page indicators.
@@ -980,7 +975,7 @@ A collection of awesome things.
 - [skydoves/pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 - [skydoves/sandwich](https://github.com/skydoves/sandwich) - 🥪  Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
 - [skydoves/sealedx](https://github.com/skydoves/sealedx) - 🎲 Kotlin Symbol Processor that auto-generates extensive sealed classes and interfaces for Android and Kotlin.
-- [skydoves/snitcher](https://github.com/skydoves/snitcher) - 🦉 Snitcher captures global crashes, enabling easy redirection to the exception tracing screen for swift recovery.
+- [skydoves/snitcher](https://github.com/skydoves/snitcher) - 🦉 Snitcher captures global crashes on KMP for Android, desktop, and iOS, and redirects to the exception tracing screen for swift recovery.
 - [skydoves/viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle) - 🌳 ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
 - [slackhq/EitherNet](https://github.com/slackhq/EitherNet) - A multiplatform, pluggable, and sealed API result type for modeling network API responses.
 - [slackhq/circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
@@ -1101,15 +1096,17 @@ A collection of awesome things.
 
 ## PHP
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## Python
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+- [aegis-icons/aegis-icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis.
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
@@ -1170,7 +1167,6 @@ A collection of awesome things.
 - [alexjlockwood/avocado](https://github.com/alexjlockwood/avocado) - 🥑 Vector Drawable optimization tool 🥑
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - 📱⚡️ Lighthouse for Mobile - audits your app and gives a performance score to your Android apps (native, React Native, Flutter..). Measure performance on CLI, E2E tests, CI...
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [crs-k/release-draft](https://github.com/crs-k/release-draft) - Creates & updates GitHub release draft, automatically generates release notes, and bumps semver compliant tags.
@@ -1187,7 +1183,7 @@ A collection of awesome things.
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 
 ## Vue
 
